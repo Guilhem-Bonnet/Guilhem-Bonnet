@@ -1,38 +1,68 @@
-# 👋 Bonjour, moi c'est Guilhèm Bonnet
+# 👋 Salut, moi c’est Guilhèm Bonnet
 
-💻 Développeur passionné par le backend, DevOps et le game dev.  
-🚀 Toujours en quête d'optimisation, d'automatisation et de nouveaux challenges techniques.
+💻 Développeur Backend & DevOps
+🎮 Passionné par le game dev, les systèmes backend et les défis techniques  
 
 ---
 
-## 🛠️ DevOps:
+## 🔧 Stack & outils
 
-![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+`C#` · `.NET` · `Node.js` · `MongoDB` · `Docker` · `Terraform`  
+`Unity` · `Godot` · `WebSocket` · `GitHub Actions` · `Redis` · `Proxmox`
 
-<!-- GitHub Stats -->
-![Guilhem-Bonnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilhem-Bonnet&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues,contribs)
+---
 
-<!-- Langues les plus utilisées -->
+## 🧠 Ce que je construis
+
+### 🎮 Moteurs de jeu & prototypes
+> Je développe des mécaniques de gameplay, systèmes de combat et UI interactives en **Unity** & **Godot**, avec une forte logique backend.
+  
+- **BattleRPG-WS** : moteur de combat RPG multijoueur en WebSocket + Godot  
+- **Systèmes de jeu maison** : gestion de stats, loot, IA simple, animation event-driven  
+- **Exploration de shaders et UI** : pour menus dynamiques ou FX de combat  
+
+### ☁️ Backend & Infrastructure
+> Déploiements containerisés, gestion d’événements, automatisation CI/CD.
+
+- Projets backend REST & WebSocket en C#  
+- Pipelines Docker + GitHub Actions  
+- Environnements de test avec Proxmox & Terraform
+
+---
+
+## 📚 En apprentissage continu
+
+🎓 Formation DevOps & cloud (Terraform, CI/CD, Infra as Code)  
+📈 Montée en compétence sur AWS, observabilité, microservices  
+🔧 Futurs projets **IoT** avec Arduino et cartes électroniques custom  
+📁 Expérimentation d’architectures hybrides backend / cloud privé  
+
+---
+
+## 📊 Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilhem-Bonnet&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide=prs,issues)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhem-Bonnet&layout=compact&theme=tokyonight&hide_title=true)
 
-<!-- Score type Trophy -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Guilhem-Bonnet&theme=tokyonight&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Guilhem-Bonnet&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🎯 Objectifs actuels :
+## 💬 En bref
 
-- 🔧 Déployer un backend en WebSocket pour un RPG connecté à Godot
-- ☁️ Approfondir Terraform, MongoDB & AWS
-- 📚 Documenter mes technos préférées (C#, réseau, DevOps, etc.)
-- 🎮 Créer des shaders et effets visuels pour un jeu de cartes virtuel
+- 🏗️ J’aime prototyper, casser, documenter, optimiser
+- 🤝 Ouvert aux projets collaboratifs, outils internes, idées de jeux ou d’automatisation
+- 🧩 J’apprends tous les jours et je partage mes trouvailles quand je peux
 
 ---
 
-## 📫 Tu peux me contacter ici :
+## 📬 Me contacter
 
-- LinkedIn : [Guilhèm Bonnet](https://www.linkedin.com/in/guilhem-bonnet/)
-- GitHub : [@Guilhem-Bonnet](https://github.com/Guilhem-Bonnet)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilhem-bonnet/)
+- 🧠 [Mes projets GitHub](https://github.com/Guilhem-Bonnet)
+- 📧 Email : guilhem.bonnet.pro [at] gmail [dot] com
 
+---
 
+> _"Créer, itérer, comprendre. Toujours en mouvement."_  
