@@ -60,7 +60,6 @@
 ## 📬 Me contacter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilhem-bonnet/)
-- 🧠 [Mes projets GitHub](https://github.com/Guilhem-Bonnet)
 
 ---
 
