@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Guilhèm Bonnet
+# Guilhèm Bonnet
 
 💻 Développeur Backend & DevOps
 🎮 Passionné par le game dev, les systèmes backend et les défis techniques  
