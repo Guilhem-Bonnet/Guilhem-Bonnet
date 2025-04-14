@@ -1,66 +1,66 @@
-# Guilhèm Bonnet
+# Guilhèm Bonnet  
+🇫🇷 Based in Montréal
 
-💻 Développeur Backend & DevOps
-🎮 Passionné par le game dev, les systèmes backend et les défis techniques  
+Backend and infrastructure-focused developer.  
+Strong interest in distributed systems, robust software architectures, and integration of heterogeneous technologies.  
+Continuously expanding skills in DevOps, cloud computing, networking, and embedded electronics.
 
 ---
 
-## 🔧 Stack & outils
+## Technical Skills
 
 `C#` · `.NET` · `Node.js` · `MongoDB` · `Docker` · `Terraform`  
-`Unity` · `Godot` · `WebSocket` · `GitHub Actions` · `Redis` · `Proxmox`
+`WebSocket` · `Redis` · `Proxmox` · `GitHub Actions` · `Linux`  
+`Unity` · `Godot` · `Software Architecture` · `TCP/UDP/HTTP Networking`
 
 ---
 
-## 🧠 Ce que je construis
+## Projects
 
-### 🎮 Moteurs de jeu & prototypes
-> Je développe des mécaniques de gameplay, systèmes de combat et UI interactives en **Unity** & **Godot**, avec une forte logique backend.
-  
-- **BattleRPG-WS** : moteur de combat RPG multijoueur en WebSocket + Godot  
-- **Systèmes de jeu maison** : gestion de stats, loot, IA simple, animation event-driven  
-- **Exploration de shaders et UI** : pour menus dynamiques ou FX de combat  
+### Backend & Automation
 
-### ☁️ Backend & Infrastructure
-> Déploiements containerisés, gestion d’événements, automatisation CI/CD.
+- API development (REST & WebSocket) in C#  
+- Modular, multithreaded service-oriented architecture  
+- CI/CD pipelines with Docker and GitHub Actions  
+- Reproducible infrastructure with Terraform (on-prem and cloud)
 
-- Projets backend REST & WebSocket en C#  
-- Pipelines Docker + GitHub Actions  
-- Environnements de test avec Proxmox & Terraform
+### Software & Network Architecture
+
+- Clean code organization, responsibility separation, and modular design  
+- Real-time communication, distributed storage integration  
+- Custom application-level protocols over WebSocket  
+- Optimization of client-server communication and load handling
+
+### Personal Infrastructure
+
+- Self-hosted Proxmox server used as a DevOps sandbox  
+- Containerized service deployment (backend, databases, observability)  
+- Local platform for CI/CD pipelines, reverse proxy experiments, lightweight orchestration, and monitoring  
+- Basis for ongoing experiments with virtualization, isolated networking, and infrastructure security
+
+### Game Engine Development
+
+- Prototyping in Unity and Godot  
+- Implementation of combat systems, game states, and server-driven events  
+- Exploration of simple multiplayer sync models and backend/game engine integration
 
 ---
 
-## 📚 En apprentissage continu
+## Ongoing Work
 
-🎓 Formation DevOps & cloud (Terraform, CI/CD, Infra as Code)  
-📈 Montée en compétence sur AWS, observabilité, microservices  
-🔧 Futurs projets **IoT** avec Arduino et cartes électroniques custom  
-📁 Expérimentation d’architectures hybrides backend / cloud privé  
+- Full automation of infrastructure provisioning using Terraform and cloud services  
+- Advanced study of concurrency models in C# (`async/await`, tasks, synchronization)  
+- IoT projects: microcontrollers, sensor integration, serial and short-range communication  
+- Structured technical documentation (networking, threading, protocols)
 
 ---
 
-## 📊 Stats GitHub
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilhem-Bonnet&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide=prs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhem-Bonnet&layout=compact&theme=tokyonight&hide_title=true)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Guilhem-Bonnet&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
-## 💬 En bref
-
-- 🏗️ J’aime prototyper, casser, documenter, optimiser
-- 🤝 Ouvert aux projets collaboratifs, outils internes, idées de jeux ou d’automatisation
-- 🧩 J’apprends tous les jours et je partage mes trouvailles quand je peux
-
----
-
-## 📬 Me contacter
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilhem-bonnet/)
-
----
-
-> _"Créer, itérer, comprendre. Toujours en mouvement."_  
+> _Focused on understanding, sustainable design, and continuous adaptation._
