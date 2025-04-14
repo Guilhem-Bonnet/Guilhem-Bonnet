@@ -61,7 +61,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilhem-bonnet/)
 - 🧠 [Mes projets GitHub](https://github.com/Guilhem-Bonnet)
-- 📧 Email : guilhem.bonnet.pro [at] gmail [dot] com
 
 ---
 
